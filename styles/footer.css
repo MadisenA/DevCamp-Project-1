@@ -58,10 +58,3 @@
     font-size: 0.7em;
     color: #858585;
 }
-
-/* Skewed header */
-.skewed-header {
-    position: relative;
-    height: 400px;
-    overflow: hidden;
-}

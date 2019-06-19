@@ -1,3 +1,9 @@
+.skewed-header {
+    position: relative;
+    height: 400px;
+    overflow: hidden;
+}
+
 .skewed-header > .header-bg {
     position: absolute;
     top: 0;
